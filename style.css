@@ -109,14 +109,14 @@ header {
     #text {
         position: absolute;
         font-size: 1.5em;
-        margin-bottom: 500px;
+        margin-bottom: 550px;
     }
 
     .sec {
         position: relative;
         background: #003329;
         padding: 20px;
-        margin-top: -550px;
+        margin-top: -570px;
     }
 
     .sec h2 {
