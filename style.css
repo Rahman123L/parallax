@@ -87,7 +87,7 @@ header {
     font-size: 1em;
     color: #FFF;
     font-weight: 300;
-    justify-
+    text-align: justify;
 }
 
 @media (max-width: 768px) {
@@ -116,7 +116,7 @@ header {
         position: relative;
         background: #003329;
         padding: 20px;
-        margin-top: -320px;
+        margin-top: -400px;
     }
 
     .sec h2 {
