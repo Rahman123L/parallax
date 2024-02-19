@@ -35,3 +35,10 @@ if( wScroll > $('.portfolio').offset().top - 250) {
     -100px // Vertical (-100px = Top)
     ;
 }
+
+// Max Layer laptop
+@media (max-width: 1156px) {
+    body {
+        display: none;
+    }
+}
